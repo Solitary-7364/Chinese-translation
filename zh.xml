@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language UniqueName="zh" ReadableName="中文">
+  <Translations>
+    <Translation ID="RPR_NAME" String="真实人口2 (Realistic Population 2)" />
+    <Translation ID="RPR_DESC" String="更真实的建筑人口(依据建筑尺寸)和效用需求。" />"
+    <Translation ID="RPR_REALPOP" String="真实人口" />
+    <Translation ID="RPR_PCK_DEF" String=" (默认)" />
+    <Translation ID="RPR_PCK_NAM" String="计算" />
+    <Translation ID="RPR_PCK_LEG_NAM" String="旧版 WG 计算方式" />
+    <Translation ID="RPR_PCK_LEG_DES" String="老版本计算方式使用的是Whitefang Greytail的原版真实人口模组(Mod)和“Realistic Population Revisited”早期版本。" />
+    <Translation ID="RPR_PCK_RLS_NAM" String="单人住宅" />
+    <Translation ID="RPR_PCK_RLS_DES" String="每栋建筑只有一户。" />
+    <Translation ID="RPR_PCK_RLD_NAM" String="双并式住宅" />
+    <Translation ID="RPR_PCK_RLD_DES" String="左右两栋彼此相连的房子" />
+    <Translation ID="RPR_PCK_RUH_NAM" String="美式高楼" />
+    <Translation ID="RPR_PCK_RUH_DES" String="美国普通套房和公寓。" />
+    <Translation ID="RPR_PCK_REM_NAM" String="欧式套房(现代)" />
+    <Translation ID="RPR_PCK_REM_DES" String="欧式中高度、墙对墙套房 (中密度; 现代建筑)。" />
+    <Translation ID="RPR_PCK_REO_NAM" String="欧式套房(传统)" />
+    <Translation ID="RPR_PCK_REO_DES" String="欧式中高度、墙对墙套房 (高密度; 传统建筑)。" />
+    <Translation ID="RPR_PCK_CUS_NAM" String="美式零售店" />
+    <Translation ID="RPR_PCK_CUS_DES" String="美式标准商业区零售店。" />
+    <Translation ID="RPR_PCK_CUK_NAM" String="英式零售店" />
+    <Translation ID="RPR_PCK_CUK_DES" String="英式标准商业区零售店。" />
+    <Translation ID="RPR_PCK_CRW_NAM" String="大卖场" />
+    <Translation ID="RPR_PCK_CRW_DES" String="非食品型大卖场和零售店仓库。" />
+    <Translation ID="RPR_PCK_THT_NAM" String="饭店" />
+    <Translation ID="RPR_PCK_THT_DES" String="饭店和旅馆。" />
+    <Translation ID="RPR_PCK_LFD_NAM" String="餐饮服务" />
+    <Translation ID="RPR_PCK_LFD_DES" String="餐厅和咖啡厅。" />
+    <Translation ID="RPR_PCK_LEN_NAM" String="娱乐" />
+    <Translation ID="RPR_PCK_LEN_DES" String="休闲、健身和娱乐中心。" />
+    <Translation ID="RPR_PCK_LCN_NAM" String="电影院" />
+    <Translation ID="RPR_PCK_LCN_DES" String="电影院和剧院。" />
+    <Translation ID="RPR_PCK_ILG_NAM" String="轻工业" />
+    <Translation ID="RPR_PCK_ILG_DES" String="轻工业和商业区。" />
+    <Translation ID="RPR_PCK_IMN_NAM" String="制造业" />
+    <Translation ID="RPR_PCK_IMN_DES" String="制造工业。" />
+    <Translation ID="RPR_PCK_IWL_NAM" String="小型仓库" />
+    <Translation ID="RPR_PCK_IWL_DES" String="用于本地分销的仓库-大存贮量和低密度就业。" />
+    <Translation ID="RPR_PCK_IWN_NAM" String="大型仓库" />
+    <Translation ID="RPR_PCK_IWN_DES" String="用于国际分销的仓库-大存贮量和超低密度就业。" />
+    <Translation ID="RPR_PCK_OCP_NAM" String="企业和办公室" />
+    <Translation ID="RPR_PCK_OCP_DES" String="企业、专业服务和公众办公室。" />
+    <Translation ID="RPR_PCK_OFN_NAM" String="财经办事处" />
+    <Translation ID="RPR_PCK_OFN_DES" String="财经办事处; 比普通企业和办公室密度更高。" />
+    <Translation ID="RPR_PCK_OCS_NAM" String="客服中心" />
+    <Translation ID="RPR_PCK_OCS_DES" String="客服中心和其他紧凑的办公室。" />
+    <Translation ID="RPR_PCK_ODT_NAM" String="数据中心" />
+    <Translation ID="RPR_PCK_ODT_DES" String="具有主伺服器托管设施的数据中心。" />
+    <Translation ID="RPR_PCK_SSB_NAM" String="郊区学校" />
+    <Translation ID="RPR_PCK_SSB_DES" String="郊区式学校。" />
+    <Translation ID="RPR_PCK_SML_NAM" String="明尼苏达(低密度)" />
+    <Translation ID="RPR_PCK_SML_DES" String="明尼苏达州教育部指南 - 最低密度" />
+    <Translation ID="RPR_PCK_SMM_NAM" String="明尼苏达(中密度)" />
+    <Translation ID="RPR_PCK_SMM_DES" String="明尼苏达州教育部指南 - 中等密度" />
+    <Translation ID="RPR_PCK_SMH_NAM" String="明尼苏达(高密度)" />
+    <Translation ID="RPR_PCK_SMH_DES" String="明尼苏达州教育部指南 - 最高密度" />
+    <Translation ID="RPR_PCK_SUK_NAM" String="英式标准" />
+    <Translation ID="RPR_PCK_SUK_DES" String="英国的标准规划密度。" />
+    <Translation ID="RPR_PCK_FDF_NAM" String="标准式" />
+    <Translation ID="RPR_PCK_FDF_DES" String="标准3米高楼层。" />
+    <Translation ID="RPR_PCK_FHO_NAM" String="独立房屋" />
+    <Translation ID="RPR_PCK_FHO_DES" String="单独式住宅。" />
+    <Translation ID="RPR_PCK_FDL_NAM" String="大厅" />
+    <Translation ID="RPR_PCK_FDL_DES" String="帶有大厅或骑楼式一层建筑。" />
+    <Translation ID="RPR_PCK_FCM_NAM" String="商业" />
+    <Translation ID="RPR_PCK_FCM_DES" String="高楼层式商业、办公区、教育和工业建筑。" />
+    <Translation ID="RPR_PCK_FWH_NAM" String="仓库" />
+    <Translation ID="RPR_PCK_FWH_DES" String="零售店、商业和工业仓库。" />
+    <Translation ID="RPR_PCK_FHB_NAM" String="高层架仓贮" />
+    <Translation ID="RPR_PCK_FHB_DES" String="高层架式商业和工业仓库。" />
+    <Translation ID="RPR_PCK_FEX_NAM" String="独特产业链" />
+    <Translation ID="RPR_PCK_FEX_DES" String="拥有工业萃取器和提炼器" />
+    <Translation ID="RPR_PCK_SVE_NAM" String="游戏默认国小" />
+    <Translation ID="RPR_PCK_SVE_DES" String="根据游戏默认国小调节" />
+    <Translation ID="RPR_PCK_SVH_NAM" String="游戏默认高中" />
+    <Translation ID="RPR_PCK_SVH_DES" String="根据游戏默认高中调节" />
+    <Translation ID="RPR_PCK_SVC_NAM" String="游戏默认社区学校" />
+    <Translation ID="RPR_PCK_SVC_DES" String="根据游戏默认社区学校调节" />
+    <Translation ID="RPR_PCK_SVA_NAM" String="游戏默认艺校" />
+    <Translation ID="RPR_PCK_SVA_DES" String="根据游戏默认艺校调节" />
+    <Translation ID="RPR_CAT_ALL" String="所有分类" />
+    <Translation ID="RPR_CAT_RES" String="住宅建筑" />
+    <Translation ID="RPR_CAT_RLO" String="低密度住宅建筑" />
+    <Translation ID="RPR_CAT_RHI" String="高密度住宅建筑" />
+    <Translation ID="RPR_CAT_COM" String="商业建筑" />
+    <Translation ID="RPR_CAT_CLO" String="低密度商业建筑" />
+    <Translation ID="RPR_CAT_CHI" String="高密度商业建筑" />
+    <Translation ID="RPR_CAT_OFF" String="办公建筑" />
+    <Translation ID="RPR_CAT_GEN" String="一般建筑" />
+    <Translation ID="RPR_CAT_ITC" String="专业化IT产业行政专区建筑" />
+    <Translation ID="RPR_CAT_IND" String="工业建筑" />
+    <Translation ID="RPR_CAT_FAR" String="专业化农牧业行政专区与农牧业工业产业园区建筑" />
+    <Translation ID="RPR_CAT_FOR" String="专业化林业行政专区与林业工业产业园区建筑" />
+    <Translation ID="RPR_CAT_OIL" String="专业化石化工业行政专区与原油工业产业园区建筑" />
+    <Translation ID="RPR_CAT_ORE" String="专业化矿业行政专区与矿产工业产业园区建筑" />
+    <Translation ID="RPR_CAT_EXT" String="工业产业园区 - 萃取器" />
+    <Translation ID="RPR_CAT_PRO" String="工业产业园区 - 提炼器" />
+    <Translation ID="RPR_CAT_TOU" String="专业化观光旅游行政专区建筑" />
+    <Translation ID="RPR_CAT_LEI" String="专业化休闲娱乐行政专区建筑" />
+    <Translation ID="RPR_CAT_ORG" String="专业化本土制造服务和有机农业行政专区建筑" />
+    <Translation ID="RPR_CAT_ECO" String="专业化自给住宅行政专区商店建筑" />
+    <Translation ID="RPR_CAT_SSH" String="专业化自给住宅行政专区建筑" />
+    <Translation ID="RPR_CAT_ERL" String="低密度-专业化自给住宅行政专区建筑" />
+    <Translation ID="RPR_CAT_ERH" String="高密度-专业化自给住宅行政专区建筑" />
+    <Translation ID="RPR_CAT_SCH" String="学校" />
+    <Translation ID="RPR_FIL_NAME" String="名称:" />
+    <Translation ID="RPR_FIL_SET" String="依据设置过滤 (参阅提示)" />
+    <Translation ID="RPR_EDT_POP" String="人口覆盖" />
+    <Translation ID="RPR_EDT_FLR" String="楼层覆盖" />
+    <Translation ID="RPR_FTR_ANY" String="具有自定义覆盖或非默认计算包" />
+    <Translation ID="RPR_FTR_OVR" String="具有人口覆盖和楼层覆盖" />
+    <Translation ID="RPR_FTR_NDC" String="具有非默认计算包和自定义人口倍数" />
+    <Translation ID="RPR_CUS_TITLE" String="自定义设置" />
+    <Translation ID="RPR_CUS_ADD" String="添加自定义设置" />
+    <Translation ID="RPR_CUS_ADD_TIP" String="为一栋已选中的建筑添加（或更新）一个自定义设置" />
+    <Translation ID="RPR_CUS_DEL" String="删除自定义设置" />
+    <Translation ID="RPR_CUS_DEL_TIP" String="从一栋已选中的建筑移除自定义设置" />
+    <Translation ID="RPR_CUS_UPD" String="更新自定义设置" />
+    <Translation ID="RPR_ERR_ZERO" String="错误： 数值必须要比零大" />
+    <Translation ID="RPR_ERR_INV" String="错误： 无效数值" />
+    <Translation ID="RPR_LBL_HOM" String="户数：" />
+    <Translation ID="RPR_LBL_JOB" String="职缺：" />
+    <Translation ID="RPR_LBL_STU" String="学生：" />
+    <Translation ID="RPR_LBL_OFF" String="第一层楼高" />
+    <Translation ID="RPR_LBL_OFH" String="其他层楼高" />
+    <Translation ID="RPR_PRV_SFL" String="显示已计算楼层" />
+    <Translation ID="RPR_CAL_MOD" String="模组(Mod)计算" />
+    <Translation ID="RPR_CAL_DEN" String="人口密度" />
+    <Translation ID="RPR_CAL_BFL" String="建筑楼层" />
+    <Translation ID="RPR_CAL_FOV" String="使用自定义覆盖" />
+    <Translation ID="RPR_CAL_FLG" String="当使用传统计算方式时楼层计算不可用。" />
+    <Translation ID="RPR_CAL_SAT" String="保存并应用到：" />
+    <Translation ID="RPR_CAL_NBD" String="只对新建筑" />
+    <Translation ID="RPR_CAL_ABD" String="所有建筑" />
+    <Translation ID="RPR_CAL_VOL_FLR" String="楼层" />
+    <Translation ID="RPR_CAL_VOL_FLR_TIP" String="使用以上设置计算该建筑的楼层(多楼层)数。" />
+    <Translation ID="RPR_CAL_VOL_TFA" String="总楼层面积" />
+    <Translation ID="RPR_CAL_VOL_TFA_TIP" String="使用以上设置计算该建筑物的总面积。" />
+    <Translation ID="RPR_CAL_VOL_UTS" String="总单位" />
+    <Translation ID="RPR_CAL_VOL_UTS_TIP" String="使用以上设置计算出该建筑的总人口(住户或作业场所)。" />
+    <Translation ID="RPR_CAL_VOL_VIS" String="访客人数" />
+    <Translation ID="RPR_CAL_VOL_VIS_TIP" String="该建筑在每个业务周期中支援的客户访问次数。" />
+    <Translation ID="RPR_CAL_VOL_FLH" String="楼层高度" />
+    <Translation ID="RPR_CAL_VOL_FLH_TIP" String="标准的地板到地面的高度，以米为单位，在这个建筑物中的每个楼层(第一层楼有下列额外选项)。" />
+    <Translation ID="RPR_CAL_VOL_FMN" String="第一层楼高最小高度" />
+    <Translation ID="RPR_CAL_VOL_FMN_TIP" String="对于建筑面积所需的最低建筑高度计为具有至少一层楼层。" />
+    <Translation ID="RPR_CAL_VOL_FMX" String="第一层楼高额外高度" />
+    <Translation ID="RPR_CAL_VOL_FMX_TIP" String="在将其他楼层添加到上方之前，第一层楼高度将向上扩展至此距离(超过上述标准楼层高度)。" />
+    <Translation ID="RPR_CAL_VOL_IGF" String="忽略第一层楼" />
+    <Translation ID="RPR_CAL_VOL_IGF_TIP" String="如果选用此选项，则该建筑的第一层楼将被视为没有任何家庭或劳工(工人)的空旷空间(例如，大堂或门厅区域)。" />
+    <Translation ID="RPR_CAL_VOL_EPC" String="空白面积 (%)" />
+    <Translation ID="RPR_CAL_VOL_EPC_TIP" String="每层面积的此比例将被视为空白空间，它在计算家庭或劳工(工人)数时将不被包括在內。" />
+    <Translation ID="RPR_CAL_VOL_EMP" String="空白面积 (确定值)" />
+    <Translation ID="RPR_CAL_VOL_EMP_TIP" String="在计算住户或劳工(工人)之前，将从每个建筑面积中扣除的固定空间面积(视为空白区域)。" />
+    <Translation ID="RPR_CAL_VOL_FXP" String="固定人口？" />
+    <Translation ID="RPR_CAL_VOL_FXP_TIP" String="如果选用此选项，则无论建筑物的大小如何(例如，每一栋建筑只有一个家庭)，都只使用固定数值來计算住户或劳工(工人)数量。" />
+    <Translation ID="RPR_CAL_VOL_UNI" String="单位" />
+    <Translation ID="RPR_CAL_VOL_HOU" String="户数" />
+    <Translation ID="RPR_CAL_VOL_WOR" String="作业场所" />
+    <Translation ID="RPR_CAL_VOL_STU" String="教学空间" />
+    <Translation ID="RPR_CAL_VOL_UNI_TIP" String="每栋建筑固定的住户或劳工(工人)数" />
+    <Translation ID="RPR_CAL_VOL_APU" String="单位面积" />
+    <Translation ID="RPR_CAL_VOL_APU_TIP" String="每个家庭或劳工(工人)所需的面积(平方米)(扣除空白面积后)。" />
+    <Translation ID="RPR_CAL_VOL_MFU" String="多层楼单位" />
+    <Translation ID="RPR_CAL_VOL_MFU_TIP" String="如果未选用此选项，则将计算建筑物中每个单独楼层的家庭或劳工(工人)数量。 选择此项将意味着仅此建筑物总计将用于计算家庭或劳工(工人)数量。" />
+    <Translation ID="RPR_CAL_VOL_ARA" String="面积" />
+    <Translation ID="RPR_CAL_UNI_HOU" String="住户" />
+    <Translation ID="RPR_CAL_UNI_WOR" String="劳工(工人)" />
+    <Translation ID="RPR_CAL_UNI_STU" String="学生" />
+    <Translation ID="RPR_CAL_HOM_CALC" String="已计算户数：" />
+    <Translation ID="RPR_CAL_HOM_CUST" String="客制化户数：" />
+    <Translation ID="RPR_CAL_HOM_APPL" String="已应用户数：" />
+    <Translation ID="RPR_CAL_JOB_CALC" String="已计算职缺:" />
+    <Translation ID="RPR_CAL_JOB_CUST" String="客制化职缺:" />
+    <Translation ID="RPR_CAL_JOB_APPL" String="已应用职缺:" />
+    <Translation ID="RPR_CAL_BLD_X" String="建筑宽度(米)：" />
+    <Translation ID="RPR_CAL_BLD_Z" String="建筑长度(米)：" />
+    <Translation ID="RPR_CAL_BLD_Y" String="建筑高度(米)：" />
+    <Translation ID="RPR_CAL_BLD_M2" String="人/平方米：" />
+    <Translation ID="RPR_CAL_FLR_Y" String="楼层高度(米)：" />
+    <Translation ID="RPR_CAL_FLR_M" String="楼层模组" />
+    <Translation ID="RPR_CAL_FLR" String="已计算的楼层：" />
+    <Translation ID="RPR_CAL_M2" String="已计算的面积：" />
+    <Translation ID="RPR_CAL_OVR" String="(覆盖)" />
+    <Translation ID="RPR_CAL_OVM" String="人口计算被手动设置覆盖" />
+    <Translation ID="RPR_CAL_RICO" String="”Ploppable RICO Revisited“模组(Mod) 正在控制该建筑的数值。" />
+    <Translation ID="RPR_CAL_CAP_OVR" String="自定义容量倍数" />
+    <Translation ID="RPR_CAL_CAP_DEF" String="默认容量倍数：" />
+    <Translation ID="RPR_CAL_SCH_PRO" String="工作人员和成本比例" />
+    <Translation ID="RPR_CAL_SCH_WKR" String="校工" />
+    <Translation ID="RPR_CAL_SCH_WKR_TIP" String="使用以上设置计算出该学校可用的教学空间数量和级别" />
+    <Translation ID="RPR_CAL_SCH_CST" String="成本/维护" />
+    <Translation ID="RPR_CAL_SCH_CST_TIP" String="使用以上设置计算学校的建造成本和每周维护成本" />
+    <Translation ID="RPR_OPT_MOD" String="模组(Mod)设置" />
+    <Translation ID="RPR_OPT_KEY" String="建筑选项屏幕快捷键" />
+    <Translation ID="RPR_OPT_PRS" String="按下任意键" />
+    <Translation ID="RPR_OPT_LEG" String="传统模式" />
+    <Translation ID="RPR_OPT_CON" String="需求消耗" />
+    <Translation ID="RPR_OPT_STO" String="全部楼层" />
+    <Translation ID="RPR_OPT_LVL" String="级别" />
+    <Translation ID="RPR_OPT_APH" String="每户面积(平方米)" />
+    <Translation ID="RPR_OPT_APW" String="每个工人面积(平方米)" />
+    <Translation ID="RPR_OPT_FLR" String="楼层高度(米)" />
+    <Translation ID="RPR_OPT_POW" String="电力" />
+    <Translation ID="RPR_OPT_WAT" String="用水" />
+    <Translation ID="RPR_OPT_SEW" String="污水" />
+    <Translation ID="RPR_OPT_GAR" String="垃圾" />
+    <Translation ID="RPR_OPT_POL" String="污染" />
+    <Translation ID="RPR_OPT_NOI" String="噪音" />
+    <Translation ID="RPR_OPT_MAI" String="邮件" />
+    <Translation ID="RPR_OPT_PRO" String="生产量" />
+    <Translation ID="RPR_OPT_WEA" String="财富" />
+    <Translation ID="RPR_OPT_RTD" String="重置为默认值" />
+    <Translation ID="RPR_OPT_RTS" String="还原为已存档" />
+    <Translation ID="RPR_OPT_SAA" String="保存并应用" />
+    <Translation ID="RPR_OPT_SCH" String="学校" />
+    <Translation ID="RPR_OPT_SEN" String="启用真实学生容量" />
+    <Translation ID="RPR_OPT_SEJ" String="启用真实学校属性(职位和成本) - 必须要重启游戏" />
+    <Translation ID="RPR_OPT_SDM" String="默认学校容量倍数" />
+    <Translation ID="RPR_OPT_JB0" String="未受教育职位" />
+    <Translation ID="RPR_OPT_JB1" String="受过普通教育职位" />
+    <Translation ID="RPR_OPT_JB2" String="受过良好教育职位" />
+    <Translation ID="RPR_OPT_JB3" String="受过高等教育职位" />
+    <Translation ID="RPR_OPT_SHE" String="小学" />
+    <Translation ID="RPR_OPT_SHH" String="高中" />
+    <Translation ID="RPR_OPT_SJB" String="基本职位" />
+    <Translation ID="RPR_OPT_SJX" String="额外职位 每 # 学生" />
+    <Translation ID="RPR_OPT_CRI" String="犯罪" />
+    <Translation ID="RPR_OPT_CML" String="犯罪倍率(%)" />
+    <Translation ID="RPR_OPT_POP" String="人口配置" />
+    <Translation ID="RPR_OPT_DEF" String="计算选项" />
+    <Translation ID="RPR_OPT_EDT_NAM" String="自定义配置名称" />
+    <Translation ID="RPR_OPT_SVC" String="建筑类别" />
+    <Translation ID="RPR_OPT_CPK" String="计算配置类别" />
+    <Translation ID="RPR_OPT_NEW" String="新添加自定义配置" />
+    <Translation ID="RPR_OPT_DEL" String="删除自定义配置" />
+    <Translation ID="RPR_OPT_NPK" String="新自定义配置" />
+    <Translation ID="RPR_DEF_LGR" String="默认使用传统计算方式 (原版WG 和 Realistic Population Revisited 早期版本) 对于住宅建筑：" />
+    <Translation ID="RPR_DEF_LGC" String="默认使用传统计算方式 (原版WG 和 Realistic Population Revisited 早期版本) 对于商业建筑：" />
+    <Translation ID="RPR_DEF_LGI" String="默认使用传统计算方式 (原版WG 和 Realistic Population Revisited 早期版本) 对于工业建筑：" />
+    <Translation ID="RPR_DEF_LGO" String="默认使用传统计算方式 (原版WG 和 Realistic Population Revisited 早期版本) 对于办公建筑：" />
+    <Translation ID="RPR_DEF_LTS" String="这个存档" />
+    <Translation ID="RPR_DEF_LAS" String="新存档" />
+    <Translation ID="RPR_DEF_VIS" String="客户(访客)容量计算" />
+    <Translation ID="RPR_DEF_VNE" String="新方法-基于工人(劳工)人数" />
+    <Translation ID="RPR_DEF_VOL" String="旧方法-基于建筑物的大小" />
+    <Translation ID="RPR_DEF_VIS_TIP" String="新方法是以计算此建筑物可以处理每个业务周期的客户数量为基础。 旧方法是使用建筑物的地块大小，新方法是使用建筑物中的作业场所数量。" />
+    <Translation ID="TRN_CHOICE" String="语言设置" />
+    <Translation ID="TRN_SYS" String="使用游戏默认语言" />
+    <Translation ID="MES_CLS" String="关闭" />
+    <Translation ID="MES_DSA" String="不要在显示" />
+    <Translation ID="MES_PAGE" String="请参阅模组(Mod)在Steam工作坊的页面以获得更多资讯。" />
+    <Translation ID="RPR_OLD_0" String="这个存档文档没有被 “真实人口2(Realistic Population 2)存档。" />
+    <Translation ID="RPR_OLD_1" String="请注意，应用不同的人口计算，会导致现有的城市中断城市平衡。" />
+    <Translation ID="RPR_OLD_2" String="如果要加载使用早期版本所创建的城市，或許希望继续使用旧版的计算方式，这樣可以保留您现有的城市平衡。 您也可以选择切换到新的（更为准确和灵活的）计算方式，请注意您的城市可能需要重平衡。" />
+    <Translation ID="RPR_OLD_3" String="请注意，无论哪种状况，现有的住宅建筑物都将保留其现有的容量和家庭，不会受到影响，并且现有工作的工人(劳工)不会立即从这些工作中流离失所，因此不会对您所在城市的人口造成直接的影响。" />
+    <Translation ID="RPR_OLD_LEG" String="使用传统计算方式" />
+    <Translation ID="RPR_OLD_NEW" String="使用新版计算方式" />
+    <Translation ID="RPR_ERR_FAT" String="这意味着 “真实人口2(Realistic Population 2)” 模组(Mod)将无法正常使用，并且已关闭。 " />
+    <Translation ID="RPR_ERR_HAR" String="“真实人口2(Realistic Population 2)” 模组(Mod) 无法完成因为它需要 “Harmony” 扩展文档。" />
+    <Translation ID="ERR_HAR0" String="“Harmony” 扩展文档错误！" />
+    <Translation ID="ERR_HAR1" String="此问題有可能包括的原因：" />
+    <Translation ID="ERR_HAR2" String="“Harmony 2” 扩展文档模组(Mod)没有订閱。" />
+    <Translation ID="ERR_HAR3" String="一些老的或坏的模组(Mod)导致 “Harmony 2” 扩展文档模组(Mod)无法正常运转。" />
+    <Translation ID="ERR_HAR4" String="请参阅模组(Mod)在Steam工作坊的页面以获得更多资讯。" />
+    <Translation ID="ERR_CON0" String="检测到模组(Mod)冲突！" />
+    <Translation ID="ERR_CON1" String="有冲突的模组(Mod)：" />
+    <Translation ID="RPR_ERR_CON0" String="“真实人口2(Realistic Population 2)” 模组(Mod)检测到至少一个模组(Mod)或其他模组(Mod)发生冲突。" />
+    <Translation ID="RPR_ERR_CON1" String="这些模组(Mod)必需退订才能让 “真实人口2(Realistic Population 2)” 模组(Mod)正常运转。" />
+    <Translation ID="RPR_200_0" String="重命名从 'Realistic Population Revisited' 致 'Realistic Population 2' 以反映这些变化的程度。" />
+    <Translation ID="RPR_200_1" String="主要新功能： 根据实际建筑物的形状和大小以及实际计算的建筑面积进行新的建筑物人口计算，并可以选择使用新的或是旧的（“传统”）计算方式。" />
+    <Translation ID="RPR_200_2" String="主要新功能： 用于建筑物佔地面积和人口的单独计算预设，以及对其中一个或两者的可选手动计算方式覆盖。" />
+    <Translation ID="RPR_200_3" String="主要新功能： 每种建筑服务类型的可选配置预设。" />
+    <Translation ID="RPR_200_4" String="主要新功能： 可选的小学和中学现实学生容量计算，以及当无法提供如此大小的教学楼时，可选配置倍数。" />
+    <Translation ID="RPR_200_5" String="主要新功能： 可调节犯罪率。" />
+    <Translation ID="RPR_200_6" String="更新致 “Harmony 2” (boformer的 “Harmony 2” 模组(Mod)需求)。" />
+    <Translation ID="RPR_200_7" String="建筑物详细讯息面板的各种增強。" />
+    <Translation ID="RPR_200_8" String="改进模组(Mod)冲突和错误通知。" />
+    <Translation ID="RPR_200_9" String="模组(Mod)代码库的重大检修、清理和重组。" />
+  </Translations>
+</Language>
